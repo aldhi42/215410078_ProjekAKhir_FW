@@ -132,7 +132,7 @@ class _HomePageState extends State<HomePage> {
                                   ),
                                 );
                               },
-                              //widget ini digunakan untuk mengatur tata letak konten agar mudah diatur
+                              //widget card ini digunakan untuk mengatur tata letak konten agar mudah diatur
                               child: Card(
                                 // widget Column untuk membuat layout vertikal
                                 child: Column(
